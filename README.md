@@ -17,3 +17,6 @@ I'm **Nika Kharebava** This repository is documenting everything I'm doing regar
 This module is purely dedicated to malware development topics 
 
 - [Index](/_writeups/_maldev/maldev_head.md) - You can list the Malware Development module here.
+
+### Misc
+<img src="/_storage/_img/Random Papers.png" width="40%">
